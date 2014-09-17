@@ -1,0 +1,17 @@
+{
+  "name": "backbone-brunch-seed",
+  "repo": "rameshv/node-webkit-backbone-seed",
+  "version": "0.0.1",
+  "main": "_public/js/app.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "console-polyfill": "~0.1.0",
+    "jquery": "~2.0.3",
+    "bootstrap-less": "~3.1.1",
+    "components-backbone": "~1.1.0"
+  }
+}
